@@ -1,0 +1,6 @@
+"Rice"
+"Ramen"
+"Pasta"
+"Cheese"
+"Garlic"
+"Butter"
